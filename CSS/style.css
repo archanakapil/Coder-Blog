@@ -1,0 +1,38 @@
+nav .navbar-custom{
+    background:rgb(62, 62, 87);
+   
+   
+   
+}
+nav .navbar-brand{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+}
+nav .nav-link {
+    color: #fff;
+    font-size: 20px; 
+    font-weight: 600;
+    float: right;
+}
+nav .nav-link .active{
+    color: #6c6868;
+    font-size: 20px; 
+    font-weight: 600;
+    float: right;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin: 0;
+}
